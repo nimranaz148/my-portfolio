@@ -19,19 +19,19 @@ function Aboutsec() {
         </div>
 
         <div className='w-[50%] sm:w-[55%] lg:w-[60%] mx-auto md:-mt-[100px] md:-mr-[40px] rounded-full flex justify-center items-center'>
-          <Image src={"/myImage/profile.png"} alt='picture' width={350} height={350} className='rounded-full'></Image>
+          <Image src={"/myimage/profile.png"} alt='picture' width={350} height={350} className='rounded-full'></Image>
         </div>
       </section>
       
       <section className="w-full py-5 px-5 mx-auto flex justify-center items-center gap-16 bg-[#1a1a1a] overflow-hidden">
-        <Image src={"/myImage/html.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/css.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/typescript.png"} alt='picture' width={70} height={70}></Image>
-        <Image src={"/myImage/git.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/figma.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/react.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/node.png"} alt='picture' width={96} height={96}></Image>
-        <Image src={"/myImage/next.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimage/html.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimage/css.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimage/typescript.png"} alt='picture' width={70} height={70}></Image>
+        <Image src={"/myimage/git.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimage/figma.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimage/react.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimage/node.png"} alt='picture' width={96} height={96}></Image>
+        <Image src={"/myimage/next.png"} alt='picture' width={96} height={96}></Image>
       </section>
     </>
   )
