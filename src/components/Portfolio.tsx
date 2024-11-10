@@ -5,12 +5,12 @@ import Image from "next/image";
 function Portfolio() {
   // Define an array of image paths and titles
   const images = [
-    { src: "/myImage/resumee.png", title: "Resumee builder"},
-    { src: "/myImage/table.png", title: "Periodic table" },
-    { src: "/myImage/number-game.png", title: "Number guessing game" },
-    { src: "/myImage/todos.jpg", title: "To Do List" },
-    { src: "/myImage/calculator.jpeg", title: "Simple calculator" },
-    { src: "/myImage/multipage.png", title: "Multipage website",width:400, height:500 },
+    { src: "/myimage/resumee.png", title: "Resumee builder"},
+    { src: "/myimage/table.png", title: "Periodic table" },
+    { src: "/myimage/number-game.png", title: "Number guessing game" },
+    { src: "/myimage/todos.jpg", title: "To Do List" },
+    { src: "/myimage/calculator.jpeg", title: "Simple calculator" },
+    { src: "/myimage/multipage.png", title: "Multipage website",width:400, height:500 },
 
   ];
 

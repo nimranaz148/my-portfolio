@@ -18,9 +18,9 @@ function Testimonials() {
 
         <div className="mt-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
-              { src: '/myImage/assets02.png', alt: 'easton kai', title: 'easton kai', role: 'javascript developer' },
-              { src: '/myImage/assets04.jpg', alt: 'elijah liam', title: 'elijah liam', role: 'android developer' },
-              { src: '/myImage/assets5.png', alt: 'james owen', title: 'james owen', role: 'IOS developer' },
+              { src: '/myimage/assets02.png', alt: 'easton kai', title: 'easton kai', role: 'javascript developer' },
+              { src: '/myimage/assets04.jpg', alt: 'elijah liam', title: 'elijah liam', role: 'android developer' },
+              { src: '/myimage/assets5.png', alt: 'james owen', title: 'james owen', role: 'IOS developer' },
              
             ].map((person, index) => (
               <div

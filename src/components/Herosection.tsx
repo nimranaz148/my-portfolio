@@ -28,10 +28,10 @@ function Herosection() {
           </div>
 
           <div className='mt-[70px] w-full bg-[#1a1a1a] h-[78px] flex justify-evenly items-center'>
-            <Image src={"/myImage/behance.png"} alt='picture' width={156} height={52} className='cursor-pointer'></Image>
-            <Image src={"/myImage/dribble.png"} alt='picture' width={156} height={52} className='cursor-pointer'></Image>
-            <Image src={"/myImage/upwork.png"} alt='picture' width={156} height={52} className='cursor-pointer'></Image>
-            <Image src={"/myImage/freelance.png"} alt='picture' width={156} height={52} className='cursor-pointer'></Image>
+            <Image src={"/myimage/behance.png"} alt='picture' width={156} height={52} className='cursor-pointer'></Image>
+            <Image src={"/myimage/dribble.png"} alt='picture' width={156} height={52} className='cursor-pointer'></Image>
+            <Image src={"/myimage/upwork.png"} alt='picture' width={156} height={52} className='cursor-pointer'></Image>
+            <Image src={"/myimage/freelance.png"} alt='picture' width={156} height={52} className='cursor-pointer'></Image>
           </div>
       </section>
     </>
